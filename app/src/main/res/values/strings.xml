@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quote Of the Day</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="genius_is_one_percent_inspiration_and_ninety_nine_percent_perspiration">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+    <string name="previous">Previous</string>
+</resources>
